@@ -1,2 +1,2 @@
 # EDYODA
-Assignment-1: Operators | Loops
+All Assignments Solutions: 
